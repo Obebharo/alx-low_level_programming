@@ -1,16 +1,16 @@
-# !\ / bin / bash
-#include <stdio.h>
+
+#include <stdio.h>
 
 /**
- *  main - print the string in the put function
+ * main-entry point
  *
- *  Description: using the main function
- *  this program prints some text.
- *  Return: 0
-*/
+ * Description: Using the main,
+ * This program prints the string literal in the puts command.
+ * Return: 0
+ */
 
-int main(void)
+int main(void)
 {
-    puts("\"Programming is like building a multilingual puzzle");
-    return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
