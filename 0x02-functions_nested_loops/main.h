@@ -1,5 +1,5 @@
-#ifndef ALX_TEST_HEADER
-#define ALX_TEST_HEADER
+#ifndef HOLBERTON_INCLUSE 
+#define HOLBERTON_INCLUDE
 
 int _putchar(char);
 #endif
