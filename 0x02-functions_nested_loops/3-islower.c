@@ -4,7 +4,7 @@
  * _islower - identifies lower case characters.
  * @i: the variable that recieves the character to be checked.
  */
-void _islower(int i)
+int _islower(int i)
 {
 	if (i >= 'a' && i <= 'z')
 	{
