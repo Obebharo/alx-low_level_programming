@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	long int f1 = 0, f2 = 1, next;
+	long long int f1 = 0, f2 = 1, next;
 	int i;
 
 	for (i = 1; i <= 98; i++)
@@ -16,9 +16,9 @@ int main(void)
 		next = f1 + f2;
 
 		if (i != 98)
-			printf("%lu, ", next);
+			printf("%llu, ", next);
 		else
-			printf("%lu\n", next);
+			printf("%llu\n", next);
 		f1 = f2;
 		f2 = next;
 	}
