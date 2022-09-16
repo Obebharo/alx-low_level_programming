@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * add - print the result of adding two inttegers
+ * print_to_98 - print all natural number from 0 to 98
  *
  * @n: recieves intoming data
  *
  *
  */
 
-void add(int n)
+void print_to_98(int n)
 {
 	if (n >= 98)
 	{
