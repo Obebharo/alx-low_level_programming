@@ -15,9 +15,9 @@ int main(void)
 		next = f1 + f2;
 
 		if (i != 98)
-			printf("%lu, ", next);
+			printf("%d, ", next);
 		else
-			printf("%lu\n", next);
+			printf("%d\n", next);
 		f1 = f2;
 		f2 = next;
 	}
