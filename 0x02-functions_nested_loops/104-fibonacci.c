@@ -8,7 +8,8 @@
 
 int main(void)
 {
-	long int f1 = 0, f2 = 1, i, next;
+	long int f1 = 0, f2 = 1, next;
+	int i;
 
 	for (i = 1; i <= 98; i++)
 	{
