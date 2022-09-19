@@ -7,9 +7,10 @@
 
 void print_rev(char *s)
 {
-	short a;
+	int a;
+	int length = strlen(s);
 
-	or (a = strlen(s); a >= 0; a--)
+	or (a = length; a >= 0; a--)
 	{
 		_putchar (s + a);
 	}
