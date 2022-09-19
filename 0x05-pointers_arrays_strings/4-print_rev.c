@@ -9,7 +9,7 @@ void print_rev(char *s)
 {
 	short a;
 
-	for (a = strlen; a >= 0; a--)
+	or (a = strlen(s); a >= 0; a--)
 	{
 		_putchar (s + a);
 	}
