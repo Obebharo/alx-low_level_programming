@@ -3,3 +3,4 @@ Beginning of pointers, arrays and strings
 0x07-pointers_arrays_strings
 0x08- Qll qbout Recursion in C
 Static Libraries
+memory allocation
