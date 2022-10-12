@@ -5,3 +5,5 @@ Beginning of pointers, arrays and strings
 Static Libraries
 memory allocation
 more memory allocation
+Preprocessor directives 
+Structures and typedef
